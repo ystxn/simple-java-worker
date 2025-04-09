@@ -1,0 +1,5 @@
+conductor:
+  server.url: ${ORKES_URI}
+  security.client:
+    key-id: ${ORKES_KEY_ID}
+    secret: ${ORKES_SECRET}
